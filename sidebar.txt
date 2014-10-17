@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[saj:home|Door43 (saj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-saj|d43-saj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-saj/archive/master.zip|d43-saj.zip]]
+
+**Recent Changes**
+{{changes>ns = saj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/saj|Ethnologue data]]
+
